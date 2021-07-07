@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     $data = [
-        'title' => 'studenti classe 35',
+        'title' => 'Studenti classe 35',
         'subtitle' => 'Imparando Laravel',
         'students' => [
             'Anna',
